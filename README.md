@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @maturk (Matias Turkulainen)
+- 👋 Hi, I’m @maturk 
 - 👀 I’m interested in robotics and computer vision
-- 🌱 I’m currently studying MSc Robotics, Systems, and Control at ETH Zurich.
-- 📫 How to reach me: matiasturkulainen@gmail.com or https://www.linkedin.com/in/matias-turkulainen/
+- 🌱 I’m currently studying MSc Robotics, Systems, and Control at ETH Zurich
 
 <!---
 maturk/maturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
