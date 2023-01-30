@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maturk 
-- 👀 I’m interested in robotics and computer vision
+- 👀 I’m interested in computer vision and computer graphics
 - 🌱 I’m currently studying MSc Robotics, Systems, and Control at ETH Zurich
 
 <!---
