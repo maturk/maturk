@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 <br></br>
 <br></br>
 <br></br>
+<br>
 I mainly program in:
 <br><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
